@@ -95,8 +95,8 @@ Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, 
 :root {
 
 	/* Font Family */
-	--global--font-primary: var(--font-headings, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif);
-	--global--font-secondary: var(--font-base, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif);
+	--global--font-primary: 'Didot', serif;
+	--global--font-secondary: serif;
 
 	/* Font Size */
 	--global--font-size-base: 1.25rem;
@@ -105,8 +105,8 @@ Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, 
 	--global--font-size-md: 1.25rem;
 	--global--font-size-lg: 1.5rem;
 	--global--font-size-xl: 2.25rem;
-	--global--font-size-xxl: 4rem;
-	--global--font-size-xxxl: 5rem;
+	--global--font-size-xxl: 2.5rem;
+	--global--font-size-xxxl: 2.75rem;
 	--global--font-size-page-title: var(--global--font-size-xxl);
 	--global--letter-spacing: normal;
 
@@ -321,10 +321,10 @@ Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, 
 
 	:root {
 		--global--font-size-xl: 2.5rem;
-		--global--font-size-xxl: 6rem;
-		--global--font-size-xxxl: 9rem;
+		--global--font-size-xxl: 2.75rem;
+		--global--font-size-xxxl: 3rem;
 		--heading--font-size-h3: 2rem;
-		--heading--font-size-h2: 3rem;
+		--heading--font-size-h2: 2.5rem;
 	}
 }
 
