@@ -162,10 +162,10 @@ Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, 
 	--global--color-bocuse: #300010;
 	--global--color-white-50: rgba(255, 255, 255, 0.5);
 	--global--color-white-90: rgba(255, 255, 255, 0.9);
-	--global--color-primary: var(--global--color-dark-gray); /* Body text color, site title, footer text color. */
+	--global--color-primary: var(--global--color-light-gray); /* Body text color, site title, footer text color. */
 	--global--color-secondary: var(--global--color-gray); /* Headings */
 	--global--color-primary-hover: var(--global--color-primary);
-	--global--color-background: var(--global--color-bocuse); /* Mint, default body background */
+	--global--color-background: var(--global--color-bocuse); /* bocuse, default body background */
 	--global--color-border: var(--global--color-primary); /* Used for borders (separators) */
 
 	/* Spacing */
