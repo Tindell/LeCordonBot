@@ -6,7 +6,6 @@ wp-admin/
 wp-includes/
 
 # Ignore the default themes and plugins
-wp-content/themes/twenty*
 wp-content/plugins/*
 
 # Ignore cache files and backups
